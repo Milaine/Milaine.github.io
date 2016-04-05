@@ -17,7 +17,9 @@
 	.leftNO {
 		float: left;
 		}
-
+	.rightNO {
+		float: right;
+		}
 	.NO {
 		display: block;
 		color: white;
